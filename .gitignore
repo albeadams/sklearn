@@ -1,0 +1,6 @@
+*config.py
+*.pyc
+*.docx
+*.xlsm
+*.pdf
+*checkpoint.ipynb
