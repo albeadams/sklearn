@@ -3,4 +3,4 @@
 *.docx
 *.xlsm
 *.pdf
-*checkpoint.ipynb
+*checkpoint*
